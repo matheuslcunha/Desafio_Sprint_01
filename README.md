@@ -45,3 +45,11 @@
 12) Quais são os três status code que modem ser utilizados para realizar o delete? 
 
 	São os status code 200, 202 e 204.
+
+13) Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
+
+	1xx -> Informational, a solicitação foi recebida e o processo continua.
+	2xx -> Success, a solicitação foi recebida com sucesso, entendida e aceitada.
+	3xx -> Redirection, existem mais ações a serem tomadas para completar esta solicitação.
+	3xx -> Client Error, a solicitação contém uma sintaxe ruim e não pode ser realizada.
+	4xx -> Server Error, o servidor falhou em realizar uma solicitação aparentemente válida.
