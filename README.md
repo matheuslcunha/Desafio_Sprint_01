@@ -65,3 +65,7 @@
 16) Como inicio um novo projeto com Flutter?
 
 	Você pode iniciar um novo projeto pelo prompt de comando com a linha "flutter create <nome_do_projeto>" ou seguindo os passos necessários pela sua IDE de escolha.
+
+17) Quais ferramentas podemos utilizar para criação de novos apps usando Flutter?
+
+	Podemos utilizar o VSCode, Intellij, Android Studio e até mesmo o próprio celular para rodar as aplicações.
