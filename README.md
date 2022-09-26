@@ -73,3 +73,7 @@
 18) Qual a diferença entre uma variavel final e uma variavel var?
 
 	Uma variável final é uma constante que uma vez definida, não pode mais ser mudada. Já o var, é uma variável flexível que pode mudar de String pra int, double ou bool, tudo no mesmo código sem que haja problemas.
+
+19) Qual a diferença entre um Statefull e Stateless widget?
+
+	O Statefull é um widget que pode ser alterado, o Stateless é um widget que não pode.
