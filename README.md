@@ -14,5 +14,7 @@
 
 	O Product Owner representa o cliente dentro do time e é o responsável pela comunicação entre eles. Ele que define as prioridades do backlog.
 
+5) Qual o comando para criação de um novo repositório no Git? 
 
+	O comando é o git init.
 
