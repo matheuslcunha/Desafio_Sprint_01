@@ -86,3 +86,8 @@
 21) Qual a finalidade dos métodos initState e dispose?
 
 	O método initState é chamado pra inicializar dados e o método dispose é chamado para deletar dados.
+
+22) Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @Flutter-set.22 e quais suas expectativas a partir de agora:
+
+	A primeira Sprint foi muito bacana, revi alguns conceitos que já não estavam mais frescos na memória e aprendi coisas novas que gostei bastante. Tenho fé que as próximas Sprints também serão assim, que além de aprender aquilo que gosto, me divertirei bastante durante o processo.
+
