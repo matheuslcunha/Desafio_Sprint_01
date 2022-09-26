@@ -61,3 +61,7 @@
 15) O que é o Flutter?
 
 	O Flutter é um framework criado pela google para a criação de aplicativos móveis.
+
+16) Como inicio um novo projeto com Flutter?
+
+	Você pode iniciar um novo projeto pelo prompt de comando com a linha "flutter create <nome_do_projeto>" ou seguindo os passos necessários pela sua IDE de escolha.
