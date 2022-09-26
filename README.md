@@ -21,3 +21,7 @@
 6) Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?
 
 	O comando é o git add.
+
+7) O que é a Branch master e para que serve? 
+
+	A branch master é a branch principal, criada quando se inicializa o repositório. Ela que é usada para manter as versões oficiais do código.
