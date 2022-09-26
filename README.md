@@ -42,7 +42,6 @@
 
 	É o status code 201.
 
+12) Quais são os três status code que modem ser utilizados para realizar o delete? 
 
-
-
-
+	São os status code 200, 202 e 204.
