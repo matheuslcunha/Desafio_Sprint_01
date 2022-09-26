@@ -38,5 +38,11 @@
 
 	O PUT e o PATCH. O PUT serve para substituir documentos inteiros, enquanto o PATCH serve para modificações parciais.
 
+11) Qual o status code que pode ser usado na criação de um novo usuário? 
+
+	É o status code 201.
+
+
+
 
 
