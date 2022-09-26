@@ -57,3 +57,7 @@
 14) O que é a linguagem de programação Dart?
 
 	O Dart é uma linguagem de script, foi criado para ser um substituto do JavaScript.
+
+15) O que é o Flutter?
+
+	O Flutter é um framework criado pela google para a criação de aplicativos móveis.
