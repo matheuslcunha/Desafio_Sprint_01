@@ -9,3 +9,10 @@
 3) O que é Git? 
 
 	O Git é um software de controle de versão, ele permite que times trabalhem em códigos simultaneamente sem que haja conflitos entre eles.
+
+4) O que é um scrum Product Owner? 
+
+	O Product Owner representa o cliente dentro do time e é o responsável pela comunicação entre eles. Ele que define as prioridades do backlog.
+
+
+
