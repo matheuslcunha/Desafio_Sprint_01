@@ -53,3 +53,7 @@
 	3xx -> Redirection, existem mais ações a serem tomadas para completar esta solicitação.
 	3xx -> Client Error, a solicitação contém uma sintaxe ruim e não pode ser realizada.
 	4xx -> Server Error, o servidor falhou em realizar uma solicitação aparentemente válida.
+
+14) O que é a linguagem de programação Dart?
+
+	O Dart é uma linguagem de script, foi criado para ser um substituto do JavaScript.
