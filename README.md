@@ -34,4 +34,9 @@
 
 	O Git é um software de controle de versão, ele permite que times trabalhem em códigos simultaneamente sem que haja conflitos entre eles. Github é um site que facilita essa comunicação entre os times fazendo as hospedagens dos códigos.
 
+10) Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles. 
+
+	O PUT e o PATCH. O PUT serve para substituir documentos inteiros, enquanto o PATCH serve para modificações parciais.
+
+
 
