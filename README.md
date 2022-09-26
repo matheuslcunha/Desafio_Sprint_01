@@ -81,5 +81,8 @@
 
 20) Para que serve o conceito de gerenciamento de estado e como ele pode ser aplicado na prática?
 
-	Um gerenciador de estados é aquilo que vai observar um certo objeto e avisar de suas mudanças para todos aqueles componentes que dependem de suas informações. Como um título que aparece diversas vezes no aplicativo, porém ainda não foi definido pelo time e muda de tempo em tempo, o gerenciador de estados observaria o título "mãe" e a cada mudança nela, mudariam também todos aqueles que dependem dela.
+	Um gerenciador de estados é aquilo que vai observar um certo objeto e avisar de suas mudanças para todos aqueles componentes que dependem de suas informações. Como um título que aparece diversas vezes no aplicativo, porém ainda não foi definido pelo time e muda de tempo em tempo. O gerenciador de estados observaria o título "mãe" e a cada mudança nela, mudariam também todos aqueles que dependem dela.
 
+21) Qual a finalidade dos métodos initState e dispose?
+
+	O método initState é chamado pra inicializar dados e o método dispose é chamado para deletar dados.
