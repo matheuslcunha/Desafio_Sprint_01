@@ -69,3 +69,7 @@
 17) Quais ferramentas podemos utilizar para criação de novos apps usando Flutter?
 
 	Podemos utilizar o VSCode, Intellij, Android Studio e até mesmo o próprio celular para rodar as aplicações.
+
+18) Qual a diferença entre uma variavel final e uma variavel var?
+
+	Uma variável final é uma constante que uma vez definida, não pode mais ser mudada. Já o var, é uma variável flexível que pode mudar de String pra int, double ou bool, tudo no mesmo código sem que haja problemas.
